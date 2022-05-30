@@ -1,14 +1,11 @@
-+++
-author = "Todor Kostov"
-title = "Android tricks - Hide a folder from the Gallery app"
-date = "2019-03-11"
-tags = [
+---
+author: "Todor Kostov"
+title: "Android tricks - Hide a folder from the Gallery app"
+date: "2019-03-11"
+tags: [
     "android"
 ]
-categories = [
-    "android"
-]
-+++
+---
 
 **Originally published on 11/10/2016**
 

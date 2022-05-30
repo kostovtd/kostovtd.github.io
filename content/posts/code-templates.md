@@ -1,16 +1,13 @@
-+++
-author = "Todor Kostov"
-title = "Code templates"
-date = "2019-03-11"
-tags = [
+---
+author: "Todor Kostov"
+title: "Code templates"
+date: "2019-03-11"
+tags: [
     "android"
 ]
-categories = [
-    "android"
-]
-+++
-
-![](/photo-1426927308491-6380b6a9936f.jpg)
+cover:
+    image: "photo-1426927308491-6380b6a9936f.jpg"
+---
 
 **Originally published on 10/30/2016**
 

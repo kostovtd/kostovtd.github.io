@@ -1,14 +1,11 @@
-+++
-author = "Todor Kostov"
-title = "Android tricks - ViewPager and Offscreen Tabs"
-date = "2019-03-11"
-tags = [
+---
+author: "Todor Kostov"
+title: "Android tricks - ViewPager and Offscreen Tabs"
+date: "2019-03-11"
+tags: [
     "android"
 ]
-categories = [
-    "android"
-]
-+++
+---
 
 **Originally published on 11/23/2016**
 

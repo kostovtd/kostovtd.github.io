@@ -1,16 +1,13 @@
-+++
-author = "Todor Kostov"
-title = "Flavors"
-date = "2019-03-11"
-tags = [
+---
+author: "Todor Kostov"
+title: "Flavors"
+date: "2019-03-11"
+tags: [
     "android"
 ]
-categories = [
-    "android"
-]
-+++
-
-![](/ice_cream.jpg)
+cover:
+    image: "ice_cream.jpg"
+---
 
 **Originally published on 11/20/2016**
 

@@ -1,7 +1,7 @@
 baseURL: https://example.com
 languageCode: en-us
 title: Personal website and blog
-theme: hugo-refresh
+theme: PaperMod
 # theme: ../..
 
 #########################################
@@ -53,6 +53,11 @@ params:
   jsIntegrity: true
   # option to specify the main colour of the theme
   mainColour: "#F39200"
+
+  ShowShareButtons: true
+
+  ShowReadingTime: true 
+  ShowBreadCrumbs: true
 
   # summary options
   summary:

@@ -1,14 +1,11 @@
-+++
-author = "Todor Kostov"
-title = "Android tricks - Gradle and license agreements"
-date = "2019-03-11"
-tags = [
+---
+author: "Todor Kostov"
+title: "Android tricks - Gradle and license agreements"
+date: "2019-03-11"
+tags: [
     "android"
 ]
-categories = [
-    "android"
-]
-+++
+---
 
 **Originally published on 11/16/2016**
 

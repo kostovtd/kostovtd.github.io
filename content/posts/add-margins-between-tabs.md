@@ -1,14 +1,11 @@
-+++
-author = "Todor Kostov"
-title = "How to add margins between tabs in TabLayout"
-date = "2019-03-11"
-tags = [
+---
+author: "Todor Kostov"
+title: "How to add margins between tabs in TabLayout"
+date: "2019-03-11"
+tags: [
     "android"
 ]
-categories = [
-    "android"
-]
-+++
+---
 
 **Originally published on 11/02/2016**
 

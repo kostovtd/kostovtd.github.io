@@ -1,16 +1,14 @@
-+++
-author = "Todor Kostov"
-title = "Useful Resources for Android Developers"
-date = "2019-03-11"
-tags = [
+---
+author: "Todor Kostov"
+title: "Useful Resources for Android Developers"
+date: "2019-03-11"
+tags: [
     "android"
 ]
-categories = [
-    "android"
-]
-+++
+cover:
+    image: "oipwxeespy1cnwypqj1w_dufer-collateral-test.jpg"
+---
 
-![](/oipwxeespy1cnwypqj1w_dufer-collateral-test.jpg)
 
 **Originally published on 11/06/2016**
 
