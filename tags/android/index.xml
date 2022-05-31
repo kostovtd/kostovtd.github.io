@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>android on PaperMod</title>
+    <title>android on kostovtd.com</title>
     <link>https://kostovtd.com/tags/android/</link>
-    <description>Recent content in android on PaperMod</description>
+    <description>Recent content in android on kostovtd.com</description>
     <image>
       <url>https://kostovtd.com/papermod-cover.png</url>
       <link>https://kostovtd.com/papermod-cover.png</link>
@@ -29,7 +29,7 @@ How to find the license agreement?</description>
       <guid>https://kostovtd.com/posts/hide-folder-from-gallery/</guid>
       <description>Originally published on 11/10/2016
 Here is a small trick for preventing a folder from appearing in the Gallery application:
-Code description: The general idea is really simple. We just have to create an empty file with the name .nomedia. That&amp;rsquo;s all! And that&amp;rsquo;s exactly what we want to do with the code snippet above. When the media scanner detects the .nomedia file, the folder is just being skipped by the OS and thus it wont be visible from the Gallery application.</description>
+Code description The general idea is really simple. We just have to create an empty file with the name .nomedia. That&amp;rsquo;s all! And that&amp;rsquo;s exactly what we want to do with the code snippet above. When the media scanner detects the .nomedia file, the folder is just being skipped by the OS and thus it wont be visible from the Gallery application.</description>
     </item>
     
     <item>

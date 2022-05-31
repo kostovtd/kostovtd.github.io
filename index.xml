@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>PaperMod</title>
+    <title>kostovtd.com</title>
     <link>https://kostovtd.com/</link>
-    <description>Recent content on PaperMod</description>
+    <description>Recent content on kostovtd.com</description>
     <image>
       <url>https://kostovtd.com/papermod-cover.png</url>
       <link>https://kostovtd.com/papermod-cover.png</link>
@@ -29,7 +29,7 @@ How to find the license agreement?</description>
       <guid>https://kostovtd.com/posts/hide-folder-from-gallery/</guid>
       <description>Originally published on 11/10/2016
 Here is a small trick for preventing a folder from appearing in the Gallery application:
-Code description: The general idea is really simple. We just have to create an empty file with the name .nomedia. That&amp;rsquo;s all! And that&amp;rsquo;s exactly what we want to do with the code snippet above. When the media scanner detects the .nomedia file, the folder is just being skipped by the OS and thus it wont be visible from the Gallery application.</description>
+Code description The general idea is really simple. We just have to create an empty file with the name .nomedia. That&amp;rsquo;s all! And that&amp;rsquo;s exactly what we want to do with the code snippet above. When the media scanner detects the .nomedia file, the folder is just being skipped by the OS and thus it wont be visible from the Gallery application.</description>
     </item>
     
     <item>
@@ -93,6 +93,16 @@ Several months ago I had to implement a TabLayout with margins between the tabs,
       <description>Originally published on 11/06/2016
 During the past two years I&amp;rsquo;d managed to find several useful tools &amp;amp; resources, which I use over and over again during my every day work. There is no doubt, that almost all of them are well known to everyone, but I feel that I have to share them with you despite that fact. This is a mixture between information &amp;amp; tutorial resources, useful tools for networking and other small things that can make your developer&amp;rsquo;s life easier.</description>
     </item>
+    
+    <item>
+      <title></title>
+      <link>https://kostovtd.com/about-me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/about-me/</guid>
+      <description>About Me</description>
+    </item>
+    
     
   </channel>
 </rss>
