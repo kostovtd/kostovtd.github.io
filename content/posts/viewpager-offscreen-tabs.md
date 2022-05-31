@@ -20,7 +20,7 @@ By default, the number of off-screen tabs is set to 1. This means that there can
 That's all we need. The [setOffScreenPageLimit()](https://developer.android.com/reference/android/support/v4/view/ViewPager.html#setOffscreenPageLimit(int)) method will handle the rest.
 
 
-## Resources:
+## Resources
 
 * https://developer.android.com/reference/android/support/v4/view/ViewPager.htm 
 

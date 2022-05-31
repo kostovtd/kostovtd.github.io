@@ -52,7 +52,7 @@ The buildConfigField method is useful when you want to predefine particular buil
 
 Lately you can access the values predefined in the **buildConfigField** method from Java in the following way: **BuildConfig.HOST**
 
-## Source code and resources:
+## Source code and resources
 
 Although, the flavors are relatively similar, there are some small differences between them as well. These differences can be related to the source code, the drawable resources, the assets, etc. But they all share one base set of Java code, icons, strings and so on. Happily, the Android Gradle plugin can give us some hints on how to structure all the folders for our flavors. There is a handy task which will create a small report, based on the flavors we have. In the report you will find the exact path and naming for the important folders and files (java, res, assets, Manifest, etc.) for each flavor.
 
@@ -70,7 +70,7 @@ This report can be really useful, because of the fact that Android Studio does N
 If you know a thing or two about build variants and flavors, but the distinction between these two entities is still not clear in your head, I highly recommend you to go through the following StackOverflow discussion - 
 http://stackoverflow.com/questions/27905934/why-are-build-types-distinct-from-product-flavors 
 
-## Resources:
+## Resources
 
 * http://blog.brainattica.com/how-to-work-with-flavours-on-android/ 
 * https://developer.android.com/studio/build/build-variants.html 

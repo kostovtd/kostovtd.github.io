@@ -1,5 +1,5 @@
 baseURL: "https://kostovtd.com/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: PaperMod
+title: kostovtd.com
 paginate: 5
 theme: PaperMod
 
@@ -26,89 +26,26 @@ languages:
           series: series
         menu:
             main:
-                - name: Archive
+                - name: All Posts
                   url: archives
                   weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: Categories
-                  url: categories/
-                  weight: 10
+                - name: About Me
+                  url: about-me
+                  weight: 15
 
-    fr:
-        languageName: ":fr:"
-        languageAltTitle: French
-        weight: 2
-        title: PaperModL2
-        taxonomies:
-          category: FRcategories
-          tag: FRtags
-          series: FRseries
-        profileMode:
-            enabled: true
-            title: PaperMod
-            # imageUrl: "#"
-            # imageTitle: my image
-            # imageWidth: 120
-            # imageHeight: 120
-            subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
-            buttons:
-                - name: Blog
-                  url: posts
-                - name: Tags
-                  url: tags
-        menu:
-            main:
-                - name: Archive
-                  url: archives/
-                  weight: 5
-                - name: FRTags
-                  url: frtags
-                  weight: 10
-                - name: FRCategories
-                  url: frcategories
-                  weight: 10
-                - name: FRSeries
-                  url: frseries
-                  weight: 10
-                - name: NullLink
-                  url: "#"
-                - name: NullLink2
-                  url: "#"
-                - name: NullLink3
-                  url: "#"
-
-    fa:
-        languagedirection: rtl
-        weight: 3
-        title: PaperMod RTL
-        homeInfoParams:
-            Title: "Hi there \U0001F44B"
-            Content: Welcome to RTL layout
-        taxonomies:
-          category: FAcategories
-          tag: FAtags
-          series: FAseries
-        menu:
-            main:
-                - name: FATags
-                  url: fatags
-                  weight: 10
-
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+# outputs:
+#     home:
+#         - HTML
+#         - RSS
+#         - JSON
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    # description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
+    author: Todor Kostov
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -117,7 +54,7 @@ params:
     ShowReadingTime: true
     # disableSpecial1stPost: true
     displayFullLangName: true
-    ShowPostNavLinks: true
+    # ShowPostNavLinks: true
     ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowRssButtonInSectionTermList: true
@@ -139,28 +76,27 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
+        Title: "A personal blog"
         Content: >
-            Welcome to demo of hugo's theme PaperMod.
+            Welcome to my personal blog! 
 
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
+            - This is a place where I share my knowledge about programming on Android.
 
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+            - I hope you will find here an answer to your questions! 🌟 
 
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
+          url: "https://github.com/kostovtd"
+        - name: twitter
+          url: "https://twitter.com/kostovtd"
+        - name: stackoverflow
+          url: "https://stackoverflow.com/users/4675457/todor-kostov"    
         - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
-        - name: Discord
-          url: "https://discord.gg/ahpmTvhVmp"
-        - name: RsS
-          url: "index.xml"
+          url: "https://ko-fi.com/kostovtd"
+
 
     editPost:
-        URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+        URL: "https://github.com/kostovtd/kostovtd.github.io/blob/main/content/"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 

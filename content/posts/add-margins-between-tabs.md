@@ -27,7 +27,7 @@ At the end, I came up with the following solution:
 
 {{< gist kostovtd 32f85333fa92e72a00fa3495190d58aa >}}
 
-## Code description:
+## Code description
 In general, the main idea of the code snippet above is to get each tab as a View and to add margin to it. The tricky part is how to actually get the tabs one by one. If we go through the source code of the TabLayout class, we will notice that each and every time we add a new tab to the TabLayout, that tab is being included in a SlidingTabStrip. Thus, the strip is the container of all the tabs we have. The good news is that it's pretty easy to reach the SlidingTabStip, because it's the first child of the TabLayout. And after that we can easily add margins to the tab views in the usual way.
 
 Feel free to share, comment & give your opinion on the topic!

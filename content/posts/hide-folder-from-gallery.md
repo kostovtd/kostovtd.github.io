@@ -13,7 +13,7 @@ Here is a small trick for preventing a folder from appearing in the Gallery appl
 
 {{< gist kostovtd 49834eb6b37777e88a94e834ec80b899 >}}
 
-## Code description:
+## Code description
 
 The general idea is really simple. We just have to create an empty file with the name **.nomedia**. That's all! And that's exactly what we want to do with the code snippet above. When the media scanner detects the .nomedia file, the folder is just being skipped by the OS and thus it wont be visible from the Gallery application.
 

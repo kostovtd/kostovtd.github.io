@@ -28,7 +28,7 @@ There is just a single file, usually called android-sdk-license. If you open it 
 
 The most obvious case for me is when you are trying to integrate your project into any kind of a Continuous Integration system like Bamboo, Jenkins, etc. and that integration is being done one a different machine.
 
-## Resources:
+## Resources
 
 * https://developer.android.com/studio/intro/update.html#download-with-gradle
 
