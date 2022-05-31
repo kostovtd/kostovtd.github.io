@@ -6,7 +6,7 @@ tags: [
     "android"
 ]
 cover:
-    image: "photo-1426927308491-6380b6a9936f.jpg"
+    image: "posts/photo-1426927308491-6380b6a9936f.jpg"
 ---
 
 **Originally published on 10/30/2016**

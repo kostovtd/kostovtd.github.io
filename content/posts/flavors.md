@@ -6,7 +6,7 @@ tags: [
     "android"
 ]
 cover:
-    image: "ice_cream.jpg"
+    image: "posts/ice_cream.jpg"
 ---
 
 **Originally published on 11/20/2016**
