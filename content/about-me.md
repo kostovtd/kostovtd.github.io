@@ -20,6 +20,6 @@ In my spare time I like reading books, doing sports and hanging out with friends
 
 If you are searching for some great fantasy books, I highly recommend you to check Brandon Sanderson's work!
 
-In case you want to get in touch with me, share some ideas & thoughts or just want to invite me for a beer, you can always do that through the contact form down bellow, write me an email on <ins>**kostovtdATgmail.com**</ins> or follow me on Twitter <ins>**ATkostovtd**</ins>.
+In case you want to get in touch with me, share some ideas & thoughts or just want to invite me for a beer, you can always write me an email on <ins>**kostovtdATgmail.com**</ins> or follow me on Twitter <ins>**ATkostovtd**</ins>.
 
 >**The views expressed throughout this blog are mine and only mine.**
