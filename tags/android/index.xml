@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>android on PaperMod</title>
+    <link>https://kostovtd.com/tags/android/</link>
+    <description>Recent content in android on PaperMod</description>
+    <image>
+      <url>https://kostovtd.com/papermod-cover.png</url>
+      <link>https://kostovtd.com/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kostovtd.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android tricks - Gradle and license agreements</title>
+      <link>https://kostovtd.com/posts/gradle-license-agreement/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/gradle-license-agreement/</guid>
+      <description>Originally published on 11/16/2016
+Working with Gradle through Android Studio is fairly easy and pleasant thing. But sometimes, you will need to build your projects on a machine without Android Studio. Gradle can be really helpful during that process and can automatically download any missing SDK packages as long as the accepted license agreement for them is in place. If it is missing, then you will have a problem.
+How to find the license agreement?</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - Hide a folder from the Gallery app</title>
+      <link>https://kostovtd.com/posts/hide-folder-from-gallery/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/hide-folder-from-gallery/</guid>
+      <description>Originally published on 11/10/2016
+Here is a small trick for preventing a folder from appearing in the Gallery application:
+Code description: The general idea is really simple. We just have to create an empty file with the name .nomedia. That&amp;rsquo;s all! And that&amp;rsquo;s exactly what we want to do with the code snippet above. When the media scanner detects the .nomedia file, the folder is just being skipped by the OS and thus it wont be visible from the Gallery application.</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - ViewPager and Offscreen Tabs</title>
+      <link>https://kostovtd.com/posts/viewpager-offscreen-tabs/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/viewpager-offscreen-tabs/</guid>
+      <description>Originally published on 11/23/2016
+As I wrote in one of my first posts, we use Tabs a lot in our applications. They provide a great way of navigating to different screens through our app. And in order to use tabs, we have to work with something call a ViewPager. According to the official documentation, this is a layout manager that allows us to flip left and right through pages of data.</description>
+    </item>
+    
+    <item>
+      <title>Code templates</title>
+      <link>https://kostovtd.com/posts/code-templates/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/code-templates/</guid>
+      <description>Originally published on 10/30/2016
+After thinking about launching a blog for Android for near a month, finally I decided to do it! So here is the first and hopefully not the last post on the vast field of Android Development!
+As developers, we sometimes have the awesome privilege to work on something really interesting for us like geofencing, another cool and good looking animation, face recognition or something else. But that&amp;rsquo;s not always the case.</description>
+    </item>
+    
+    <item>
+      <title>Flavors</title>
+      <link>https://kostovtd.com/posts/flavors/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/flavors/</guid>
+      <description>Originally published on 11/20/2016
+Banana, blueberries, cherry, coffee, cream. These are all great ice cream flavors! Especially the first two! But because of the cold weather outside, we are not going to talk about ice cream. Instead, we will talk about one of the great features of the Android Gradle plugin called Flavors.
+What are Flavors? The idea behind that feature is relatively simple. It provides version customization possibilities. In other words, we can provide different version of the same application with some minor differences.</description>
+    </item>
+    
+    <item>
+      <title>How to add margins between tabs in TabLayout</title>
+      <link>https://kostovtd.com/posts/add-margins-between-tabs/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/add-margins-between-tabs/</guid>
+      <description>Originally published on 11/02/2016
+Tabs&amp;hellip; Almost each and every application has at least one screen with tabs. Using that UI pattern gives us the desired high level organization of the content we have in our app.
+Several months ago I had to implement a TabLayout with margins between the tabs, which at the begging seemed like a regular task. Sadly, I was wrong. I expected to be fairly easy, but there was not a straight forward way to do that.</description>
+    </item>
+    
+    <item>
+      <title>Useful Resources for Android Developers</title>
+      <link>https://kostovtd.com/posts/usefull-resources-for-android-developers/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/usefull-resources-for-android-developers/</guid>
+      <description>Originally published on 11/06/2016
+During the past two years I&amp;rsquo;d managed to find several useful tools &amp;amp; resources, which I use over and over again during my every day work. There is no doubt, that almost all of them are well known to everyone, but I feel that I have to share them with you despite that fact. This is a mixture between information &amp;amp; tutorial resources, useful tools for networking and other small things that can make your developer&amp;rsquo;s life easier.</description>
+    </item>
+    
+  </channel>
+</rss>
