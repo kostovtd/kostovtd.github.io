@@ -1,13 +1,11 @@
 ---
 author: "Todor Kostov"
 title: "How to add margins between tabs in TabLayout"
-date: "2019-03-11"
+date: "2016-11-02"
 tags: [
     "android"
 ]
 ---
-
-**Originally published on 11/02/2016**
 
 Tabs... Almost each and every application has at least one screen with tabs. Using that UI pattern gives us the desired high level organization of the content we have in our app.
 

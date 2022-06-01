@@ -1,13 +1,11 @@
 ---
 author: "Todor Kostov"
 title: "Android tricks - Gradle and license agreements"
-date: "2019-03-11"
+date: "2019-11-16"
 tags: [
     "android"
 ]
 ---
-
-**Originally published on 11/16/2016**
 
 Working with [Gradle](https://gradle.org/) through Android Studio is fairly easy and pleasant thing. But sometimes, you will need to build your projects on a machine without Android Studio. Gradle can be really helpful during that process and can automatically download any missing SDK packages as long as the accepted license agreement for them is in place. If it is missing, then you will have a problem.
 

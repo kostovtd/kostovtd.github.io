@@ -1,15 +1,13 @@
 ---
 author: "Todor Kostov"
 title: "Code templates"
-date: "2019-03-11"
+date: "2016-10-30"
 tags: [
     "android"
 ]
 cover:
     image: "posts/photo-1426927308491-6380b6a9936f.jpg"
 ---
-
-**Originally published on 10/30/2016**
 
 After thinking about launching a blog for Android for near a month, finally I decided to do it! So here is the first and hopefully not the last post on the vast field of Android Development!
 

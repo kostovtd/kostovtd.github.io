@@ -1,7 +1,7 @@
 ---
 author: "Todor Kostov"
 title: "Useful Resources for Android Developers"
-date: "2019-03-11"
+date: "2016-11-06"
 tags: [
     "android"
 ]

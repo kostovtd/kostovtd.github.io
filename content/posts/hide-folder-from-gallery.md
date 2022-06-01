@@ -1,13 +1,11 @@
 ---
 author: "Todor Kostov"
 title: "Android tricks - Hide a folder from the Gallery app"
-date: "2019-03-11"
+date: "2016-11-10"
 tags: [
     "android"
 ]
 ---
-
-**Originally published on 11/10/2016**
 
 Here is a small trick for preventing a folder from appearing in the Gallery application:
 

@@ -1,15 +1,13 @@
 ---
 author: "Todor Kostov"
 title: "Flavors"
-date: "2019-03-11"
+date: "2016-11-20"
 tags: [
     "android"
 ]
 cover:
     image: "posts/ice_cream.jpg"
 ---
-
-**Originally published on 11/20/2016**
 
 Banana, blueberries, cherry, coffee, cream. These are all great ice cream flavors! Especially the first two! But because of the cold weather outside, we are not going to talk about ice cream. Instead, we will talk about one of the great features of the Android Gradle plugin called **Flavors**.
 
