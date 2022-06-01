@@ -9,70 +9,25 @@
       <link>https://kostovtd.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kostovtd.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kostovtd.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android tricks - How to prevent AlertDialog from dismissing after onClick event?</title>
+      <link>https://kostovtd.com/posts/prevent-alert-dialog-dismiss/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/prevent-alert-dialog-dismiss/</guid>
+      <description>Have you noticed that the default behavior of AlertDialog is to disappear after onClick event? I&amp;rsquo;m sure you have! But there are cases when we actually don&amp;rsquo;t want to dismiss the dialog. In these situation, the default behavior of the AlertDialog must be overridden. Down below you will find a snippet which is doing exactly that thing.
+Code description So what exactly is happening in that snippet? You can see that when we are constructing the AlertDialog object by using the Builder Pattern, we are setting null parameters to the methods responsible for setting up the behavior of the positive and the negative buttons.</description>
+    </item>
+    
     <item>
       <title>Android tricks - Gradle and license agreements</title>
       <link>https://kostovtd.com/posts/gradle-license-agreement/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://kostovtd.com/posts/gradle-license-agreement/</guid>
-      <description>Originally published on 11/16/2016
-Working with Gradle through Android Studio is fairly easy and pleasant thing. But sometimes, you will need to build your projects on a machine without Android Studio. Gradle can be really helpful during that process and can automatically download any missing SDK packages as long as the accepted license agreement for them is in place. If it is missing, then you will have a problem.
+      <description>Working with Gradle through Android Studio is fairly easy and pleasant thing. But sometimes, you will need to build your projects on a machine without Android Studio. Gradle can be really helpful during that process and can automatically download any missing SDK packages as long as the accepted license agreement for them is in place. If it is missing, then you will have a problem.
 How to find the license agreement?</description>
-    </item>
-    
-    <item>
-      <title>Android tricks - Hide a folder from the Gallery app</title>
-      <link>https://kostovtd.com/posts/hide-folder-from-gallery/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://kostovtd.com/posts/hide-folder-from-gallery/</guid>
-      <description>Originally published on 11/10/2016
-Here is a small trick for preventing a folder from appearing in the Gallery application:
-Code description The general idea is really simple. We just have to create an empty file with the name .nomedia. That&amp;rsquo;s all! And that&amp;rsquo;s exactly what we want to do with the code snippet above. When the media scanner detects the .nomedia file, the folder is just being skipped by the OS and thus it wont be visible from the Gallery application.</description>
-    </item>
-    
-    <item>
-      <title>Android tricks - ViewPager and Offscreen Tabs</title>
-      <link>https://kostovtd.com/posts/viewpager-offscreen-tabs/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://kostovtd.com/posts/viewpager-offscreen-tabs/</guid>
-      <description>Originally published on 11/23/2016
-As I wrote in one of my first posts, we use Tabs a lot in our applications. They provide a great way of navigating to different screens through our app. And in order to use tabs, we have to work with something call a ViewPager. According to the official documentation, this is a layout manager that allows us to flip left and right through pages of data.</description>
-    </item>
-    
-    <item>
-      <title>Code templates</title>
-      <link>https://kostovtd.com/posts/code-templates/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://kostovtd.com/posts/code-templates/</guid>
-      <description>Originally published on 10/30/2016
-After thinking about launching a blog for Android for near a month, finally I decided to do it! So here is the first and hopefully not the last post on the vast field of Android Development!
-As developers, we sometimes have the awesome privilege to work on something really interesting for us like geofencing, another cool and good looking animation, face recognition or something else. But that&amp;rsquo;s not always the case.</description>
-    </item>
-    
-    <item>
-      <title>Flavors</title>
-      <link>https://kostovtd.com/posts/flavors/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://kostovtd.com/posts/flavors/</guid>
-      <description>Originally published on 11/20/2016
-Banana, blueberries, cherry, coffee, cream. These are all great ice cream flavors! Especially the first two! But because of the cold weather outside, we are not going to talk about ice cream. Instead, we will talk about one of the great features of the Android Gradle plugin called Flavors.
-What are Flavors? The idea behind that feature is relatively simple. It provides version customization possibilities. In other words, we can provide different version of the same application with some minor differences.</description>
-    </item>
-    
-    <item>
-      <title>How to add margins between tabs in TabLayout</title>
-      <link>https://kostovtd.com/posts/add-margins-between-tabs/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://kostovtd.com/posts/add-margins-between-tabs/</guid>
-      <description>Originally published on 11/02/2016
-Tabs&amp;hellip; Almost each and every application has at least one screen with tabs. Using that UI pattern gives us the desired high level organization of the content we have in our app.
-Several months ago I had to implement a TabLayout with margins between the tabs, which at the begging seemed like a regular task. Sadly, I was wrong. I expected to be fairly easy, but there was not a straight forward way to do that.</description>
     </item>
     
     <item>
@@ -85,13 +40,109 @@ Several months ago I had to implement a TabLayout with margins between the tabs,
     </item>
     
     <item>
+      <title>Geo-fencing with MVP Part 3</title>
+      <link>https://kostovtd.com/posts/geo-fencing-mvp-part3/</link>
+      <pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/geo-fencing-mvp-part3/</guid>
+      <description>With the previous two posts, we went through the basic concepts behind the idea of geofencing, why using design patterns and we dived deeper in the main components used in the construction of the example application for these series. Now in the third part, we will go through the classes which are responsible for the core geofencing functionality. I hope you still remember the overall MVP design diagram from the previous post!</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - How to add an icon to your Toolbar?</title>
+      <link>https://kostovtd.com/posts/add-icon-toolbar/</link>
+      <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/add-icon-toolbar/</guid>
+      <description>Today I had to implement something which is not so popular throughout the Android universe. I had to implement a simple Toolbar with a logo on it&amp;rsquo;s left side. That&amp;rsquo;s not so popular these days, but from time to time there always will be someone who wants something like that. All in all, the end result had to be similar to the one down below:
+I ended up with two different solutions based on weather you want your icon to be on the left side of the title, or on the right side.</description>
+    </item>
+    
+    <item>
+      <title>Geo-fencing with MVP Part 2</title>
+      <link>https://kostovtd.com/posts/geo-fencing-mvp-part2/</link>
+      <pubDate>Sun, 11 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/geo-fencing-mvp-part2/</guid>
+      <description>In the previous post, we talked about the idea behind geo-fencing, why is it so useful and what is the reason behind choosing a particular design pattern like MVP. It was most like an introductory step before getting our hands dirty with some actual source code. Thus, in this part of the series, I will try to go through the different layers of the MVP pattern and will try to explain as much as possible the things that are happening there.</description>
+    </item>
+    
+    <item>
+      <title>Geo-fencing with MVP Part 1</title>
+      <link>https://kostovtd.com/posts/geo-fencing-mvp-part1/</link>
+      <pubDate>Sun, 04 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/geo-fencing-mvp-part1/</guid>
+      <description>Several weeks ago, I had to implement a geo-fencing functionality in one of the projects on which I was currently working on. Due to the fact that I had never done that before, I had to do a &amp;lsquo;small&amp;rsquo; research on the topic. Of course, tools like Google, Stackoverflow, the Android Documentation, etc. were there to help me. Happily, I managed to inform myself on the topic, but there was a small detail.</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - Overriding toString() in POJOs</title>
+      <link>https://kostovtd.com/posts/override-to-string/</link>
+      <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/override-to-string/</guid>
+      <description>Although, this small trick is not specifically related to the Android SDK, it is still a useful one. The ROI (Return On Investment and by investment I mean time) of overriding the toString() method of your POJOs (Plain Old Java Objects) is relatively high. At the end of the day, this small thing can make your developer life just a little bit better.
+How to override the toString() method? There are two different ways for overriding this method (and any other method as well) - manually or automatically.</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - ViewPager and Offscreen Tabs</title>
+      <link>https://kostovtd.com/posts/viewpager-offscreen-tabs/</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/viewpager-offscreen-tabs/</guid>
+      <description>As I wrote in one of my first posts, we use Tabs a lot in our applications. They provide a great way of navigating to different screens through our app. And in order to use tabs, we have to work with something call a ViewPager. According to the official documentation, this is a layout manager that allows us to flip left and right through pages of data. These pages of data are usually composed of Fragments.</description>
+    </item>
+    
+    <item>
+      <title>Flavors</title>
+      <link>https://kostovtd.com/posts/flavors/</link>
+      <pubDate>Sun, 20 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/flavors/</guid>
+      <description>Banana, blueberries, cherry, coffee, cream. These are all great ice cream flavors! Especially the first two! But because of the cold weather outside, we are not going to talk about ice cream. Instead, we will talk about one of the great features of the Android Gradle plugin called Flavors.
+What are Flavors? The idea behind that feature is relatively simple. It provides version customization possibilities. In other words, we can provide different version of the same application with some minor differences.</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - Hide a folder from the Gallery app</title>
+      <link>https://kostovtd.com/posts/hide-folder-from-gallery/</link>
+      <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/hide-folder-from-gallery/</guid>
+      <description>Here is a small trick for preventing a folder from appearing in the Gallery application:
+Code description The general idea is really simple. We just have to create an empty file with the name .nomedia. That&amp;rsquo;s all! And that&amp;rsquo;s exactly what we want to do with the code snippet above. When the media scanner detects the .nomedia file, the folder is just being skipped by the OS and thus it wont be visible from the Gallery application.</description>
+    </item>
+    
+    <item>
       <title>Useful Resources for Android Developers</title>
       <link>https://kostovtd.com/posts/usefull-resources-for-android-developers/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 06 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://kostovtd.com/posts/usefull-resources-for-android-developers/</guid>
       <description>Originally published on 11/06/2016
 During the past two years I&amp;rsquo;d managed to find several useful tools &amp;amp; resources, which I use over and over again during my every day work. There is no doubt, that almost all of them are well known to everyone, but I feel that I have to share them with you despite that fact. This is a mixture between information &amp;amp; tutorial resources, useful tools for networking and other small things that can make your developer&amp;rsquo;s life easier.</description>
+    </item>
+    
+    <item>
+      <title>How to add margins between tabs in TabLayout</title>
+      <link>https://kostovtd.com/posts/add-margins-between-tabs/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/add-margins-between-tabs/</guid>
+      <description>Tabs&amp;hellip; Almost each and every application has at least one screen with tabs. Using that UI pattern gives us the desired high level organization of the content we have in our app.
+Several months ago I had to implement a TabLayout with margins between the tabs, which at the begging seemed like a regular task. Sadly, I was wrong. I expected to be fairly easy, but there was not a straight forward way to do that.</description>
+    </item>
+    
+    <item>
+      <title>Code templates</title>
+      <link>https://kostovtd.com/posts/code-templates/</link>
+      <pubDate>Sun, 30 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/code-templates/</guid>
+      <description>After thinking about launching a blog for Android for near a month, finally I decided to do it! So here is the first and hopefully not the last post on the vast field of Android Development!
+As developers, we sometimes have the awesome privilege to work on something really interesting for us like geofencing, another cool and good looking animation, face recognition or something else. But that&amp;rsquo;s not always the case.</description>
     </item>
     
     <item>
