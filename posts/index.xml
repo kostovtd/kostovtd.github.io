@@ -40,6 +40,87 @@ How to find the license agreement?</description>
     </item>
     
     <item>
+      <title>Android tricks - Is there a way to customize the permissions dialog?</title>
+      <link>https://kostovtd.com/posts/customize-permission-dialog/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/customize-permission-dialog/</guid>
+      <description>With Android 6.0 Marshmallow a really important feature was introduced to the Android users. Yes! I&amp;rsquo;m talking about the run-time permissions. The &amp;ldquo;all or nothing&amp;rdquo; approach related to the app&amp;rsquo;s permissions was wiped out. If running on Marshmallow or a later version, the users can enable and disable permissions whenever they want. And that&amp;rsquo;s how the nightmare for all of us, the developers, began!
+When going through this nightmare, have you asked yourself, if it is possible to change the UI of the dialog?</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - How to add strikethrough text in TextView</title>
+      <link>https://kostovtd.com/posts/add-strikethrough/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/add-strikethrough/</guid>
+      <description>The strikethrough effect can be really useful in many situations. You can use it when you want to show a discount price, when you want to mark a wrong word or in many other situations. We all know that feature from software products like Word, Evernote, Sublime, etc. But how can we do the same thing with our simple TextView?
+There are two different ways to do that, based on the desired result.</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - How to make the text of a RadioButton appear on it&#39;s left side?</title>
+      <link>https://kostovtd.com/posts/radio-button-text-left-side/</link>
+      <pubDate>Tue, 24 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/radio-button-text-left-side/</guid>
+      <description>Let&amp;rsquo;s start 2017 with a quick and useful &amp;lsquo;How to&amp;rsquo; article!
+Have you ever tried to make the text of a RadioButton appear on it&amp;rsquo;s left side? It&amp;rsquo;s tricky! You can check to source code down below:
+Code description By default, for the usual left-to-right layout, the text appears on the right side of the RadioButton. As you can see from the snipped above, we actually use a particular property to change the direction of the current view:</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - Determine current screen density</title>
+      <link>https://kostovtd.com/posts/screen-density/</link>
+      <pubDate>Thu, 19 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/screen-density/</guid>
+      <description>Do you know the thing I hate the most about Android? It&amp;rsquo;s screen fragmentation! On the one hand, having a huge variety of screen sizes is great for the end users. But it&amp;rsquo;s a complete nightmare for developers! Thus, it&amp;rsquo;s really hard to create a good looking UI without any problems. There will always be a device with some wired screen size on which your layout will look bad!
+There are several different approaches for handling this problem.</description>
+    </item>
+    
+    <item>
+      <title>DiffUtil in details</title>
+      <link>https://kostovtd.com/posts/diffutils-details/</link>
+      <pubDate>Sun, 15 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/diffutils-details/</guid>
+      <description>The chances of developing a medium to large size Android application without using RecyclerView are relatively low. The scrollable list, as UI and UX pattern, is really powerful. It gives us the possibility to group similar items or entities into lists. They are easy to grab and to understand.
+But there are some difficulties related to this pattern as well. We often have to update those lists with some newly entered, or server-fetched information.</description>
+    </item>
+    
+    <item>
+      <title>Intent VS PendingIntent</title>
+      <link>https://kostovtd.com/posts/intent-vs-pendingintent/</link>
+      <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/intent-vs-pendingintent/</guid>
+      <description>2016 is officially over and here we are at the beginning of 2017! So let&amp;rsquo;s start the year with some wisdom!
+Have you ever wondered what is the difference between Intent and PendingIntent? Well, although they sound similar, there is a difference between them. As you can see, the documentation about these two entities is extensive and provides lots of information. But we will try to summarize it in a shorter version.</description>
+    </item>
+    
+    <item>
+      <title>Geo-fencing with MVP Part 4</title>
+      <link>https://kostovtd.com/posts/geo-fencing-mvp-part4/</link>
+      <pubDate>Mon, 26 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/geo-fencing-mvp-part4/</guid>
+      <description>Here we are, at the last, fourth part of the series about Geofencing and MVP. In this last article we will talk about the actual registration and addition process of the predefined POJO geofences. Aaand we will make a short summery of the articles up till now.
+In part 3 we said that there are two different groups of entities in the manager package. The first group is responsible for providing the location awareness logic for our app, and the second is responsible for handling the actual geofencing functionality.</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - How to find view&#39;s dimensions before displaying the view?</title>
+      <link>https://kostovtd.com/posts/find-view-dimensions/</link>
+      <pubDate>Wed, 21 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/find-view-dimensions/</guid>
+      <description>Two days ago I had to work with some views (Surprise! Surprise!). At some point I had to get the actual views&amp;rsquo; width and height, before actually displaying the views. Of course, they were included in my XML layout. Thus this made the task a little bit easier. After spending several minutes on Google (ALWAYS do that, when you are in trouble), I found a solution.
+Code Description: You can see that we can actually obtain the view&amp;rsquo;s dimensions thanks to the Display class.</description>
+    </item>
+    
+    <item>
       <title>Geo-fencing with MVP Part 3</title>
       <link>https://kostovtd.com/posts/geo-fencing-mvp-part3/</link>
       <pubDate>Sun, 18 Dec 2016 00:00:00 +0000</pubDate>
