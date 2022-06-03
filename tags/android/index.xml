@@ -31,6 +31,44 @@ How to find the license agreement?</description>
     </item>
     
     <item>
+      <title>DirectBoot in details</title>
+      <link>https://kostovtd.com/posts/direct-boot/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/direct-boot/</guid>
+      <description>Android 7.0 (Nougat) brought plenty of new features to both average users and developers. Alongside features like Multi-window view, Notification Direct Reply and File-based Encryption something called Direct Boot was included as well. Although, it doesn&amp;rsquo;t sound like a game changer, it still can have a huge impact on the user satisfaction. Using this new feature with creativity and responsibility can result in better applications. But what exactly is the idea behind Direct Boot?</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - How to compare two drawables?</title>
+      <link>https://kostovtd.com/posts/compare-drawable/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/compare-drawable/</guid>
+      <description>Drawables are widely used throughout the developing process of Android applications. Because of one reason, or another we can be interested in comparing two drawable objects. At first, that sounds like an easy task, but actually it can be a bit tricky.
+The &amp;lsquo;==&amp;rsquo; operator Of course, if you have two different instances of the same drawable resource, the &amp;lsquo;==&amp;rsquo; operator is useless. It&amp;rsquo;s gonna compare if the left and the right side are actually the same instance.</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - How to determine the current state of your SearchView?</title>
+      <link>https://kostovtd.com/posts/determin-searchview-state/</link>
+      <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/determin-searchview-state/</guid>
+      <description>The SearchView provides a way for the user to enter a search query and submit it to a search provider. It&amp;rsquo;s a widely used UI pattern in the Android system. Though, a simple task like figuring out if the search box is currently visible can be a bit tricky.
+On the image below, you can see the two possible states for a SearchView. On the left one, the view is closed.</description>
+    </item>
+    
+    <item>
+      <title>RecyclerView &amp; ListView basic comparison</title>
+      <link>https://kostovtd.com/posts/recyclerview-vs-listview/</link>
+      <pubDate>Sun, 05 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/recyclerview-vs-listview/</guid>
+      <description>Do you remember the good old ListView? Back then it was the only option for showing items in scrolling lists. Then, at some point, a new player entered the field - the RecyclerView. For some period of time I was definitely confused about which one should I use. But day by day the RecyclerView took the whole stage and there was almost nothing left for the old ListView. Nowadays, if you need a listing functionality, the RecyclerView is the place to go.</description>
+    </item>
+    
+    <item>
       <title>Android tricks - Is there a way to customize the permissions dialog?</title>
       <link>https://kostovtd.com/posts/customize-permission-dialog/</link>
       <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
