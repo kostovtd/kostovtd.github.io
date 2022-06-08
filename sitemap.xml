@@ -3,49 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://kostovtd.com/tags/android/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kostovtd.com/posts/prevent-alert-dialog-dismiss/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kostovtd.com/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kostovtd.com/posts/logging-android/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kostovtd.com/posts/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kostovtd.com/tags/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kostovtd.com/posts/gradle-license-agreement/</loc>
-    <lastmod>2019-11-16T00:00:00+00:00</lastmod>
+    <loc>https://kostovtd.com/posts/run-time-permissions-never-ask-again/</loc>
+    <lastmod>2018-01-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kostovtd.com/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://kostovtd.com/posts/rooting-android/</loc>
+    <lastmod>2017-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kostovtd.com/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://kostovtd.com/posts/parcelable-vs-serializable/</loc>
+    <lastmod>2017-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kostovtd.com/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://kostovtd.com/posts/app-links-assistant/</loc>
+    <lastmod>2017-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kostovtd.com/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kostovtd.com/posts/hello-world/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kostovtd.com/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kostovtd.com/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kostovtd.com/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://kostovtd.com/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://kostovtd.com/posts/app-shortcuts/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kostovtd.com/posts/direct-boot/</loc>
     <lastmod>2017-03-05T00:00:00+00:00</lastmod>
@@ -92,6 +77,9 @@
     <loc>https://kostovtd.com/posts/geo-fencing-mvp-part2/</loc>
     <lastmod>2016-12-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://kostovtd.com/posts/prevent-alert-dialog-dismiss/</loc>
+    <lastmod>2016-12-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://kostovtd.com/posts/geo-fencing-mvp-part1/</loc>
     <lastmod>2016-12-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -103,6 +91,9 @@
   </url><url>
     <loc>https://kostovtd.com/posts/flavors/</loc>
     <lastmod>2016-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://kostovtd.com/posts/gradle-license-agreement/</loc>
+    <lastmod>2016-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://kostovtd.com/posts/hide-folder-from-gallery/</loc>
     <lastmod>2016-11-10T00:00:00+00:00</lastmod>
@@ -119,5 +110,9 @@
     <loc>https://kostovtd.com/about-me/</loc>
   </url><url>
     <loc>https://kostovtd.com/archives/</loc>
+  </url><url>
+    <loc>https://kostovtd.com/categories/</loc>
+  </url><url>
+    <loc>https://kostovtd.com/series/</loc>
   </url>
 </urlset>

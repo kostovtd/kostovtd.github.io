@@ -9,34 +9,63 @@
       <link>https://kostovtd.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://kostovtd.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://kostovtd.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Android tricks - How to prevent AlertDialog from dismissing after onClick event?</title>
-      <link>https://kostovtd.com/posts/prevent-alert-dialog-dismiss/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      <title>Logging in Android</title>
+      <link>https://kostovtd.com/posts/logging-android/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kostovtd.com/posts/prevent-alert-dialog-dismiss/</guid>
-      <description>Have you noticed that the default behavior of AlertDialog is to disappear after onClick event? I&amp;rsquo;m sure you have! But there are cases when we actually don&amp;rsquo;t want to dismiss the dialog. In these situation, the default behavior of the AlertDialog must be overridden. Down below you will find a snippet which is doing exactly that thing.
-Code description So what exactly is happening in that snippet? You can see that when we are constructing the AlertDialog object by using the Builder Pattern, we are setting null parameters to the methods responsible for setting up the behavior of the positive and the negative buttons.</description>
+      <guid>https://kostovtd.com/posts/logging-android/</guid>
+      <description>I am sure that each developer out there have heard the phrase ‘Check the logs’ at least once during his or here career! And checking the logs have saved my ass several times this month. But what exactly a log message is and what are the advantages and disadvantages of logging? Let’s try to find out!
+What is logging? Logging — the cutting, skidding, on-site processing and loading of trees onto trucks.</description>
     </item>
     
     <item>
-      <title>Android tricks - Gradle and license agreements</title>
-      <link>https://kostovtd.com/posts/gradle-license-agreement/</link>
-      <pubDate>Sat, 16 Nov 2019 00:00:00 +0000</pubDate>
+      <title>Android tricks - Runtime permissions and the &#39;Never ask again&#39; option</title>
+      <link>https://kostovtd.com/posts/run-time-permissions-never-ask-again/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://kostovtd.com/posts/gradle-license-agreement/</guid>
-      <description>Working with Gradle through Android Studio is fairly easy and pleasant thing. But sometimes, you will need to build your projects on a machine without Android Studio. Gradle can be really helpful during that process and can automatically download any missing SDK packages as long as the accepted license agreement for them is in place. If it is missing, then you will have a problem.
-How to find the license agreement?</description>
+      <guid>https://kostovtd.com/posts/run-time-permissions-never-ask-again/</guid>
+      <description>With Android 6.0 (API 23) users are able to grant app permissions during run time. That new feature made our developer lives a bit more difficult, but gave huge powers to our users. And do you remember that little check box which says &amp;lsquo;Never ask me again&amp;rsquo;?
+Yep&amp;hellip; this particular one! So, how can we know that this check box had ever been selected by the user? Actually, it&amp;rsquo;s not that difficult!</description>
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://kostovtd.com/posts/hello-world/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Rooting Android</title>
+      <link>https://kostovtd.com/posts/rooting-android/</link>
+      <pubDate>Thu, 23 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://kostovtd.com/posts/hello-world/</guid>
-      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+      <guid>https://kostovtd.com/posts/rooting-android/</guid>
+      <description>The Android OS is famous with it’s many customization capabilities. This gives us the opportunity to experiment as much as we want. We can change the look and feel of the OS, or we can dive deeper and tinker with things like GPU, CPU and other scary abbreviations. But before getting our hands dirty, we need to do something else. We need to root our phone first.
+What is rooting? Long story short, to root your phone means to get all the privileges, permissions and goodies of an admin user.</description>
+    </item>
+    
+    <item>
+      <title>Parcelable vs Serializable</title>
+      <link>https://kostovtd.com/posts/parcelable-vs-serializable/</link>
+      <pubDate>Wed, 17 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/parcelable-vs-serializable/</guid>
+      <description>Often, when we develop applications, we have to transfer data from one Activity to another. Of course, we can not do that directly. The data we want to transfer must be included into a corresponding Intent object. And if we want to move a complex POJO (e.x. Person, Car, Employee, etc.) we also need to perform some additional actions to make that object suitable for a transfer. To do that, our object must be either Serializable or Parcelable.</description>
+    </item>
+    
+    <item>
+      <title>How to use App Links Assistant in Android Studio 2.3</title>
+      <link>https://kostovtd.com/posts/app-links-assistant/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/app-links-assistant/</guid>
+      <description>With each and every new version of Android, more and more features are included into the OS. The apps become more flexible and user-friendly. Both users and developers can experiment and try new features and configurations. Of course, these boundaries can not be pushed without improving the actual tools used for developing the applications. Thus, our beloved Android Studio is evolving as well! Many bugs were fixed and new features were introduced with version 2.</description>
+    </item>
+    
+    <item>
+      <title>App Shortcuts in details</title>
+      <link>https://kostovtd.com/posts/app-shortcuts/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/app-shortcuts/</guid>
+      <description>Not long ago, the iOS users were introduced to a new feature called 3D Touch. What this feature does is to provide a limited list of actions that you can do without entering an app. Of course, the folks from Google were ready to respond to that. Thus, the App Shortcuts feature was included in Android 7.1.1
+What are App shortcuts? The main idea behind App Shortcuts is not different than the one behind the 3D Touch.</description>
     </item>
     
     <item>
@@ -187,6 +216,16 @@ I ended up with two different solutions based on weather you want your icon to b
     </item>
     
     <item>
+      <title>Android tricks - How to prevent AlertDialog from dismissing after onClick event?</title>
+      <link>https://kostovtd.com/posts/prevent-alert-dialog-dismiss/</link>
+      <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/prevent-alert-dialog-dismiss/</guid>
+      <description>Have you noticed that the default behavior of AlertDialog is to disappear after onClick event? I&amp;rsquo;m sure you have! But there are cases when we actually don&amp;rsquo;t want to dismiss the dialog. In these situation, the default behavior of the AlertDialog must be overridden. Down below you will find a snippet which is doing exactly that thing.
+Code description So what exactly is happening in that snippet? You can see that when we are constructing the AlertDialog object by using the Builder Pattern, we are setting null parameters to the methods responsible for setting up the behavior of the positive and the negative buttons.</description>
+    </item>
+    
+    <item>
       <title>Geo-fencing with MVP Part 1</title>
       <link>https://kostovtd.com/posts/geo-fencing-mvp-part1/</link>
       <pubDate>Sun, 04 Dec 2016 00:00:00 +0000</pubDate>
@@ -222,6 +261,16 @@ How to override the toString() method? There are two different ways for overridi
       <guid>https://kostovtd.com/posts/flavors/</guid>
       <description>Banana, blueberries, cherry, coffee, cream. These are all great ice cream flavors! Especially the first two! But because of the cold weather outside, we are not going to talk about ice cream. Instead, we will talk about one of the great features of the Android Gradle plugin called Flavors.
 What are Flavors? The idea behind that feature is relatively simple. It provides version customization possibilities. In other words, we can provide different version of the same application with some minor differences.</description>
+    </item>
+    
+    <item>
+      <title>Android tricks - Gradle and license agreements</title>
+      <link>https://kostovtd.com/posts/gradle-license-agreement/</link>
+      <pubDate>Wed, 16 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/gradle-license-agreement/</guid>
+      <description>Working with Gradle through Android Studio is fairly easy and pleasant thing. But sometimes, you will need to build your projects on a machine without Android Studio. Gradle can be really helpful during that process and can automatically download any missing SDK packages as long as the accepted license agreement for them is in place. If it is missing, then you will have a problem.
+How to find the license agreement?</description>
     </item>
     
     <item>
