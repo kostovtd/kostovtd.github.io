@@ -1,7 +1,7 @@
 ---
 author: "Todor Kostov"
 title: "Android tricks - Gradle and license agreements"
-date: "2019-11-16"
+date: "2016-11-16"
 tags: [
     "android"
 ]

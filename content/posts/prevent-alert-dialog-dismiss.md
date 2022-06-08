@@ -1,7 +1,7 @@
 ---
 author: "Todor Kostov"
 title: "Android tricks - How to prevent AlertDialog from dismissing after onClick event?"
-date: "2019-12-08"
+date: "2016-12-08"
 tags: [
     "android"
 ]
