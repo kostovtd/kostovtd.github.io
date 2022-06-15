@@ -9,7 +9,17 @@
       <link>https://kostovtd.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://kostovtd.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kostovtd.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flow types</title>
+      <link>https://kostovtd.com/posts/flow-types/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/flow-types/</guid>
+      <description>It&amp;rsquo;s been a while since my last post! Actually, more than 4 years&amp;hellip; The Android ecosystem has changed a lot during that time! Some new concepts were introduced, some old programming languages were left behind and we have to make the most out of this situation (as always). So, let&amp;rsquo;s get down to business!
+What is a Flow? (briefly) The flow is a &amp;ldquo;new&amp;rdquo; concept of doing asynchronous tasks. Flows are built on top of coroutines and I am sure you have heard about them.</description>
+    </item>
+    
     <item>
       <title>Logging in Android</title>
       <link>https://kostovtd.com/posts/logging-android/</link>
