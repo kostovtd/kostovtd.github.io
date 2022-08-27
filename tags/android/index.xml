@@ -9,7 +9,19 @@
       <link>https://kostovtd.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kostovtd.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kostovtd.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lifecycle changes after API 28</title>
+      <link>https://kostovtd.com/posts/lifecycle-changes-api-28/</link>
+      <pubDate>Sat, 27 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/lifecycle-changes-api-28/</guid>
+      <description>Some time ago, I was going through the documentation about the infamous Activity class. All was good and even uneventful until I came across an interesting paragraph stating the following:
+A question popped up in my head- but why the change in the order?
+My first idea was to search for any articles on the topic. Sadly, with no result.
+Then, I decided to go through the source code of the Activity class.</description>
+    </item>
+    
     <item>
       <title>Flow types</title>
       <link>https://kostovtd.com/posts/flow-types/</link>
