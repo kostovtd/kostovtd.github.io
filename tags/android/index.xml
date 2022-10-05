@@ -9,7 +9,16 @@
       <link>https://kostovtd.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 27 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kostovtd.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://kostovtd.com/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Location without Google Services</title>
+      <link>https://kostovtd.com/posts/location-no-services/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://kostovtd.com/posts/location-no-services/</guid>
+      <description>These days you will rarely find an app that doesn&amp;rsquo;t have some kind of location-based functionality. Things like navigation, geofencing or location tracking are more and more common. It&amp;rsquo;s all good when you can rely on Google Play Services. Sadly, that&amp;rsquo;s not always the case. Sometimes the devices that your users are going to use don&amp;rsquo;t have Play Services installed. Such devices can be manufactured by some weird and unknown company, can have a custom ROM installed on them, or be located in a country where Google is not allowed to operate.</description>
+    </item>
+    
     <item>
       <title>Lifecycle changes after API 28</title>
       <link>https://kostovtd.com/posts/lifecycle-changes-api-28/</link>
